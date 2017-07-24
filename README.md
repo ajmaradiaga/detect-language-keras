@@ -52,3 +52,8 @@ jupyter notebook
 ## Run 
 
 Open the [Jupyter](http://jupyter.org/install.html) notebook - Detect Language - Keras.ipynb
+
+## Results
+
+Below a screenshot with the results of the model classifying text it has never seen before:
+![Result Classification](result-classification.png)
