@@ -26,7 +26,7 @@ Each dataset, e.g. [Asturian](http://pcai056.informatik.uni-leipzig.de/downloads
 
 The file included in the Github repository (all_sentences.txt) doesn't require further processing.
 
-### Install
+## Install
 
 This project has the following dependencies:
 - Python 3.6
@@ -49,6 +49,6 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-### Run 
+## Run 
 
 Open the [Jupyter](http://jupyter.org/install.html) notebook - Detect Language - Keras.ipynb
