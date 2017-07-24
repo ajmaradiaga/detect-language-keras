@@ -11,10 +11,8 @@ The solution below, can be useful in the following scenarios:
 - Tagging an email.
 - A Government agency of a country that has several regional languages, e.g. Spain, which is what we've used in this notebook to train our model.
 
-Alternative solutions:
-
-The Translation API by Google can be used to detect the language of a text.
-https://cloud.google.com/translate/docs/detecting-language
+*Alternative solution:*
+- The Translation API by Google can be used to detect the language of a text, https://cloud.google.com/translate/docs/detecting-language.
 
 ## Datasets and Input
 
